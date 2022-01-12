@@ -1,2 +1,5 @@
 # westing_repo
-test text 
+# Favorite fruit
+- banana
+- apple
+- orange 
